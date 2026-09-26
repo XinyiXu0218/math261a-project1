@@ -18,7 +18,7 @@ This project uses simple linear regression to study the association between annu
 
 The data are from **CalEnviroScreen 5.0**, published by the California Office of Environmental Health Hazard Assessment (OEHHA) and distributed through the California Open Data Portal.
 
-Data page: <https://lab.data.ca.gov/dataset/calenviroscreen-5-0>
+Data page: <https://data.ca.gov/dataset/calenviroscreen-5-0>
 
 The metadata supplied with the dataset lists the public access level as public, states that there are no restrictions on public use, and lists the license field as not specified. The raw data are not included in this repository. The Quarto file first looks for a local copy and otherwise attempts to read the official download URL.
 
