@@ -1,0 +1,23 @@
+# External raw/cleaned data should not be committed
+data/
+*.csv
+*.xlsx
+*.xls
+*.shp
+*.dbf
+*.shx
+*.prj
+*.gdb/
+*.lyrx
+
+# Local R/RStudio files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Quarto/LaTeX intermediate files
+*_files/
+*.tex
+*.aux
+*.log
+*.out
