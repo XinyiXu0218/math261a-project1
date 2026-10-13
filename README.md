@@ -33,4 +33,4 @@ To reproduce the report, open `project1_version2.qmd` in RStudio and render it t
 
 ## External resources and LLM use
 
-External resources were used in preparing this project. OEHHA documentation and the cited scholarly literature were used for background, data definitions, and methodological context. ChatGPT was used to assist with organizing the Quarto document, checking code structure, and editing wording. The author reviewed the statistical analysis, numerical results, interpretation, citations, and final written report before submission.
+External resources were used in preparing this project. OEHHA documentation and the cited scholarly literature were used for background, data definitions, and methodological context. Grammarly was used to check the grammar and rearrange my sentences to be more appropriate. 
